@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/jVs/d0/RIQkksGwBZuCdMwWzx+vwvEL2jV2vndDiAqQgFn0tkyVDCqe3LGcyDUdaMmy4jMRvdGlRDqphUKmA==",
+  "success": true,
+  "projectFilePath": "E:\\学习项目\\NET依赖注入\\NET依赖注入\\NET依赖注入.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiong\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\xiong\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\xiong\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\xiong\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\xiong\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\xiong\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
